@@ -22,3 +22,7 @@
   line-height: 100%;
   letter-spacing: 0%;
 }
+
+.im{
+  background-image: url(../Images.svg);
+}
